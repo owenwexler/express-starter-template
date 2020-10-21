@@ -1,0 +1,22 @@
+{
+  "name": "express-starter-template",
+  "version": "1.0.0",
+  "description": "Express Starter Template",
+  "main": "server/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/owenwexler/express-starter-template.git"
+  },
+  "author": "Owen Wexler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/owenwexler/express-starter-template/issues"
+  },
+  "homepage": "https://github.com/owenwexler/express-starter-template#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
